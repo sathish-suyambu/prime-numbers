@@ -30,6 +30,10 @@ System.out.println("enter a number");
 		{
 			System.out.println(g+" is not a prime number");
 			b=1;
+			if(b==1)
+			{
+			break;
+			}
 	}
 		
 	}
